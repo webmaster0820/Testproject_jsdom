@@ -1,0 +1,16 @@
+{
+  "name": "dom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "jsdom": "^3.1.2",
+    "mocha": "^2.2.4"
+  }
+}
